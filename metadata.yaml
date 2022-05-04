@@ -1,0 +1,40 @@
+_repo: Better-days-or-A-Millionaire-of-To-morrow_67835
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Fitch, Thomas
+    birthdate: 1838
+    deathdate: 1923
+    gutenberg_agent_id: '54483'
+    url: http://www.gutenberg.org/2009/agents/54483
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Fitch_(politician)
+  - agent_name: Fitch, Anna M. (Anna Mariska)
+    aliases:
+    - Fitch, Anna Maritza
+    - Fitch, Anna Mariza
+    birthdate: 1840
+    deathdate: 1904
+    gutenberg_agent_id: '54484'
+    url: http://www.gutenberg.org/2009/agents/54484
+description: ''
+gutenberg_issued: '2022-04-15'
+identifiers:
+  gutenberg: '67835'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=dul1.ark:/13960/t2k655300
+pgterms:marc905: 20190315140423fitch
+pgterms:marc906: '1891'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: United States :Better Days Publishing Co.,1891.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Utopias -- Fiction'
+- !lcc 'PS'
+- !lcsh 'West (U.S.) -- Fiction'
+- GITenberg
+title: Better days; or, A Millionaire of To-morrow
+url: http://www.gutenberg.org/ebooks/67835
